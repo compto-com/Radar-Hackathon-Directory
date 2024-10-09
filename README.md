@@ -1,5 +1,13 @@
-# Radar-Hackathon-Directory
+# Compto's Radar-Hackathon-Directory
 The hub for all repositories developed during the 2024 Colosseum Radar Hackathon
+
+## Website
+
+https://compto.com
+
+## Whitepaper
+
+https://compto.com/whitepaper (also in this repository)
 
 # Public Repos
 
